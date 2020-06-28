@@ -1,0 +1,1 @@
+{ "presets": ["@babel/preset-env"] } // es6 변환 프리셋, 바벨이 es6을 사용할수있도록 인식하게해줌

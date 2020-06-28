@@ -1,0 +1,32 @@
+{
+  "name": "LearningJavascript",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript, 3rd Edition = = Chapter 2: JavaScript Development Tools",
+  "main": "main.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp-babel": "^8.0.0",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "eslint": "^7.3.1",
+    "gulp-eslint": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo7535/LearningJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo7535/LearningJavascript/issues"
+  },
+  "homepage": "https://github.com/leo7535/LearningJavascript#readme"
+}
