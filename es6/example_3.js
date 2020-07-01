@@ -54,5 +54,3 @@ const a4 = [
 const now = new Date();
 
 const a = parseInt("7 volts", 10);
-
-console.log(a);
